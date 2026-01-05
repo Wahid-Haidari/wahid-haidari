@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I’m Wahid
 
-<!--
-**Wahid-Haidari/Wahid-Haidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack web apps and like shipping clean, user-focused features.
 
-Here are some ideas to get you started:
+#### Tech stack
+- Java, Python, JavaScript/TypeScript, SQL
+- React, Next.js, FastAPI, HTML/CSS
+- Git, Docker, AWS, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### GitHub stats
+![Metrics](./metrics.svg)
