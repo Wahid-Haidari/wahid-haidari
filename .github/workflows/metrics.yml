@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 12 * * 1"   # every Monday
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Wahid-Haidari
+          template: classic
+          base: header, activity, community, repositories
+          filename: metrics.svg
+
+          # Languages (nice + minimal)
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
