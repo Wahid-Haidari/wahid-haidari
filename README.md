@@ -2,7 +2,7 @@
 
 # Hi, I’m Wahid 👋
 
-✨ I build **full-stack web apps** and enjoy shipping clean, user-focused features — from UI polish to backend APIs.
+I am a master's student in Management of Information Technology at the University of Oklahoma, with a bachelor's degree in Computer Science. I am a **software developer** and I like to build **full-stack web apps** and enjoy shipping clean, user-focused features — from UI polish to backend APIs.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/w-haidari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,12 +13,6 @@
 
 </div>
 
----
-
-## 🚀 What I’m focused on right now
-- 🧱 Building production-style projects (**React/Next.js + FastAPI**)
-- 🧼 Improving code quality (architecture, testing habits, documentation)
-- 🤖 Exploring AI features that fit real products (**RAG, agents, evaluation**)
 
 ---
 
@@ -55,9 +49,10 @@ If you want the best overview, check my **pinned repos** — I keep them updated
 ---
 
 ## 🌿 My passions
-- 🥋 Martial arts
-- 🎬 Film making
-- 🌲 Nature
+💻 Coding
+🥋 Martial arts
+🎬 Film making
+🌲 Nature
 
 ---
 
