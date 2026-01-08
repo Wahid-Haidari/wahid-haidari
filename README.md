@@ -5,10 +5,11 @@
 ✨ I build **full-stack web apps** and enjoy shipping clean, user-focused features — from UI polish to backend APIs.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/w-haidari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wahid-haidari.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Wahid-Haidari"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/w-haidari/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wahid-haidari.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Wahid-Haidari" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 
 
